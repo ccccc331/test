@@ -1,2 +1,2 @@
-# test
-金融大數據
+# Streamlit_Financial_Dashboard_Trading
+Streamlit Financial Dashboard and Program Trading
